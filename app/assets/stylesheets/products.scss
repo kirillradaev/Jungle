@@ -1,5 +1,7 @@
 main section.products-index,
-main section.categories-show {
+main section.categories-show,
+main section.products-show,
+main section.cart-show {
   .products {
     display: flex;
     flex-direction: row;
@@ -73,6 +75,32 @@ main section.categories-show {
         }
       }
     }
+  }
+  dd.price {
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #eee;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 20px;
+  }
+
+  th.price {
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #eee;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 20px;
+  }
+
+  td.price {
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #eee;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 20px;
   }
 }
 
