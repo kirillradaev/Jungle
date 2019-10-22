@@ -9,19 +9,7 @@ RSpec.describe Product, type: :model do
   }
 
   describe 'Validations' do
-    it 'is valid with a name' do
-      expect(subject).to be_valid
-    end
-
-    it 'is valid with a price' do
-      expect(subject).to be_valid
-    end
-
-    it 'is valid with a quantity' do
-      expect(subject).to be_valid
-    end
-
-    it 'is valid with a category' do
+    it 'is valid with valid attributes' do
       expect(subject).to be_valid
     end
 
