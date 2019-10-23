@@ -4,6 +4,34 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Final Product
 
+###### Home Page
+
+!["Home page"](https://github.com/kirillradaev/Jungle/blob/master/docs/home_page.png?raw=true)
+
+###### About Page
+
+!["About page"](https://github.com/kirillradaev/Jungle/blob/master/docs/about_page.png?raw=true)
+
+###### Empty Cart
+
+!["Empty cart"](https://github.com/kirillradaev/Jungle/blob/master/docs/empty_cart.png?raw=true)
+
+###### Cart with products
+
+!["Cart with products"](https://github.com/kirillradaev/Jungle/blob/master/docs/cart_with_products.png?raw=true)
+
+###### SignUp page
+
+!["Signup page"](https://github.com/kirillradaev/Jungle/blob/master/docs/signup.png?raw=true)
+
+###### Login
+
+!["Login"](https://github.com/kirillradaev/Jungle/blob/master/docs/login.png?raw=true)
+
+###### Navbar when logged in
+
+!["Navbar when logged in"](https://github.com/kirillradaev/Jungle/blob/master/docs/navbar_loggedin.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
